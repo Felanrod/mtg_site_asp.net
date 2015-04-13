@@ -1,0 +1,14 @@
+G:\Visual Studio\COMP2007\Assignment 2\MTGPlayers\MTGPlayers\bin\MTGPlayers.dll
+G:\Visual Studio\COMP2007\Assignment 2\MTGPlayers\MTGPlayers\bin\MTGPlayers.pdb
+G:\Visual Studio\COMP2007\Assignment 2\MTGPlayers\MTGPlayers\obj\Debug\ResolveAssemblyReference.cache
+G:\Visual Studio\COMP2007\Assignment 2\MTGPlayers\MTGPlayers\obj\Debug\MTGPlayers.dll
+G:\Visual Studio\COMP2007\Assignment 2\MTGPlayers\MTGPlayers\obj\Debug\MTGPlayers.pdb
+G:\Visual Studio\COMP2007\Assignment 2\MTGPlayers\MTGPlayers\bin\BusinessRules.dll
+G:\Visual Studio\COMP2007\Assignment 2\MTGPlayers\MTGPlayers\bin\BusinessRules.pdb
+E:\Georgian College\Assignment 2\MTGPlayers\MTGPlayers\bin\MTGPlayers.dll
+E:\Georgian College\Assignment 2\MTGPlayers\MTGPlayers\bin\MTGPlayers.pdb
+E:\Georgian College\Assignment 2\MTGPlayers\MTGPlayers\bin\BusinessRules.dll
+E:\Georgian College\Assignment 2\MTGPlayers\MTGPlayers\bin\BusinessRules.pdb
+E:\Georgian College\Assignment 2\MTGPlayers\MTGPlayers\obj\Debug\ResolveAssemblyReference.cache
+E:\Georgian College\Assignment 2\MTGPlayers\MTGPlayers\obj\Debug\MTGPlayers.dll
+E:\Georgian College\Assignment 2\MTGPlayers\MTGPlayers\obj\Debug\MTGPlayers.pdb
